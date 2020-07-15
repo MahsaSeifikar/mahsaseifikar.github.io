@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-12px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid rgba(97, 105, 163, 0.4); 
   border-radius: 50% !important;
 }
 
@@ -58,9 +58,6 @@
   color: #0077b5;
 }
 
-.angellist {
-  color: grey;
-}
 
 .icon-btn:hover {
   transform: scale(1.10);
@@ -116,7 +113,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #24305e;
   background-color: white;
 }
 /* main body */
@@ -140,7 +137,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #24305e;
 }
 
 /* main blockqoute */
@@ -187,9 +184,9 @@ nav {
 } */
 
 nav i {
-  padding: 0 15px;
+  padding: 0 20px;
   position: relative;
-  top: 5px;
+  top: 10px;
 }
 
 /* main */
@@ -201,7 +198,7 @@ nav i {
 
 main {
   background: url(../../assets/img/bg.png) repeat;
-  padding-left: 180px;
+  padding-left: 250px;
 }
 
 dl {
@@ -220,7 +217,7 @@ dt {
 }
 
 ul.side-nav {
-  width: 180px;
+  width: 250px;
 }
 
 ul.side-nav li {
@@ -320,7 +317,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #525d7a repeat;
   position: relative;
 }
 
