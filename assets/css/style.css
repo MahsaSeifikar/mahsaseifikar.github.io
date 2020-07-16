@@ -1,14 +1,14 @@
 .profile-pic {
   position: relative;
   max-width:200px;
-  max-height:200px;
+  max-height:130px;
   width: auto;
   height: auto;
   overflow: hidden;
   margin: -31px; 
   margin-left:-12px;
-  border: 3px solid rgba(97, 105, 163, 0.4); 
-  border-radius: 20% !important;
+  border: 2px solid rgba(97, 105, 163, 0.4); 
+  border-radius: 30% !important;
 }
 
 .profile-pic img {
