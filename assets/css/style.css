@@ -1,18 +1,14 @@
 .profile-pic {
   position: relative;
-  max-width:130px;
-  max-height:130px;
+  max-width:200px;
+  max-height:200px;
   width: auto;
   height: auto;
   overflow: hidden;
-  /* display: inline-block; */
-  
-  
-  /* background-size: cover;  */
   margin: -31px; 
   margin-left:-12px;
-  border: 6px solid rgba(97, 105, 163, 0.4); 
-  border-radius: 50% !important;
+  border: 3px solid rgba(97, 105, 163, 0.4); 
+  border-radius: 20% !important;
 }
 
 .profile-pic img {
@@ -81,6 +77,9 @@
   background-color: black;
 }
 
+.scholar:hover {
+  background-color: black;
+}
 
 .medium:hover {
   background-color: black;
