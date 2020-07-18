@@ -1,14 +1,14 @@
 .profile-pic {
   position: relative;
   max-width:200px;
-  max-height:130px;
+  max-height:200px;
   width: auto;
   height: auto;
   overflow: hidden;
   margin: -31px; 
   margin-left:-12px;
   border: 2px solid rgba(97, 105, 163, 0.4); 
-  border-radius: 30% !important;
+  border-radius: 40% !important;
 }
 
 .profile-pic img {
@@ -69,17 +69,11 @@
   background-color: #0077b5;
 }
 
-.angellist:hover {
-  background-color: grey;
-}
 
 .github:hover {
   background-color: black;
 }
 
-.scholar:hover {
-  background-color: black;
-}
 
 .medium:hover {
   background-color: black;
@@ -125,40 +119,15 @@
   color: #24305e;
   background-color: white;
 }
-/* main body */
-
-/* body-color */
 
 body {
   color: #333;
   font-size: 18px;
 }
 
-/* body {
-  color: black;
-  font-size: 18px;
-} */
-
-/* main a -- links */
-
-/* a {
-  color: #009688;
-} */
-
 a {
   color: #24305e;
 }
-
-/* main blockqoute */
-
-/* blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
-  font-size: 125%;
-  font-weight: 400;
-  margin: 20px 0;
-  padding-left: 1.5rem;
-} */
 
 blockquote {
   border-left: 5px solid #795548;
@@ -233,13 +202,6 @@ ul.side-nav li {
   padding: 0;
 }
 
-/* ul.side-nav.fixed a {
-  box-sizing: content-box;
-  color: rgb(48, 122, 207);
-  display: block;
-  line-height: 100%;
-  padding: 10px 0 12px;
-} */
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
@@ -254,13 +216,6 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
   font-weight: 200;
 }
 
-/* ul.side-nav.fixed li.logo {
-  background-color: #fafafa;
-  border-bottom: 1px solid #ddd;
-  box-sizing: content-box;
-  min-height: 90px;
-  padding: 30px 30px 40px;
-} */
 
 ul.side-nav.fixed li.logo {
   background-color: #fafafa;
@@ -475,11 +430,6 @@ a.hoverline {
   -webkit-transition: 0.25s all;
 }
 
-/* main a.hoverline */
-
-/* a.hoverline:hover {
-  border-bottom: 3px solid #24305e !important;
-} */
 
 a.hoverline:hover {
   border-bottom: 3px solid #7876C4 !important;
