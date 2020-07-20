@@ -1,15 +1,15 @@
 .profile-pic {
   position: center;
-  max-width:auto;
+  max-width:130px;
   max-height:auto;
   width: auto;
   height: auto;
-  : hidden;
+  overflow: hidden;
   margin: -31px; 
   margin-left:-20px;
   border: 2px solid rgba(97, 105, 163, 0.4); 
   border-radius: 40% !important;
-}overflow
+}
 
 .profile-pic img {
   width: 100%;
@@ -176,7 +176,7 @@ nav i {
 
 main {
   background: url(../../assets/img/bg.png) repeat;
-  padding-left: 250px;
+  padding-left: 180px;
 }
 
 dl {
@@ -195,7 +195,7 @@ dt {
 }
 
 ul.side-nav {
-  width: 200px;
+  width: 180;
 }
 
 ul.side-nav li {
